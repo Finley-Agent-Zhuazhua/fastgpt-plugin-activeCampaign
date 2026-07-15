@@ -1,5 +1,5 @@
 {
-  "name": "@fastgpt-plugin/activecampaign",
+  "name": "@fastgpt-plugin/active-campaign",
   "version": "0.1.0",
   "description": "ActiveCampaign contacts, tags, and campaign lookup for FastGPT",
   "type": "module",
