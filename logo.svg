@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>ActiveCampaign</title>
+  <rect width="64" height="64" rx="14" fill="#0b6b4f"/>
+  <path d="M14 38.5 31.5 13 50 38.5h-9.2l-4.1-6.2H25.2l-3.8 6.2H14Z" fill="#fff"/>
+  <path d="m27.7 26.7-4.2 6.7h16.1l-4.4-6.7h-7.5Z" fill="#70e1ac"/>
+  <path d="M18 45.5h28" stroke="#70e1ac" stroke-width="4" stroke-linecap="round"/>
+</svg>
