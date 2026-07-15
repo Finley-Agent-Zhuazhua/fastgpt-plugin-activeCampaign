@@ -1,6 +1,7 @@
 node_modules/
 dist/
 *.tgz
+*.pkg
 .secrets*.json
 .env
 .env.*
